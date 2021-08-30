@@ -1,6 +1,6 @@
 # Englishbattle
 
-Projet d'étude de réalisation d'un jeu sur les verbes irréguliers en anglais. Voir le pdf pour la consigne. 
+Projet d'étude de réalisation d'un jeu sur les verbes irréguliers anglais en Java. Voir le pdf pour la consigne. 
 
 Utilisation de JavaServer Pages pour la génération de pages web dynamiques. 
 
